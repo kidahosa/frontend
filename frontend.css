@@ -1,0 +1,25 @@
+h1{ text-align: center;
+    color:brown; background-color: aqua;
+    
+}
+p{ color:red; font-size: 50px;
+
+}
+a{ color:black; text-decoration: none;
+     border: solid; border-color: red;
+    padding: 5px;
+    display:block; 
+    text-align: center;
+background-color: goldenrod;}
+article{ background-color: pink;
+    border:solid 19px purple;
+    margin: 20px;
+    padding: 20px; border-radius: 50px;
+    
+
+}
+.youu{ color:black
+
+}
+.been{color:aquamarine}
+#go{ color:blue}
